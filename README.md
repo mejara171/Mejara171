@@ -1,8 +1,11 @@
 # 💫 About Me:
 
+
 Game Developer
 
+
 <i>Trying to learn everyday</i>
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mejara171&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
