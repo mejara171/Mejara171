@@ -1,5 +1,8 @@
 # 💫 About Me:
-Intento aprender todos los días
+
+Game Developer
+
+Trying to learn everyday
 
 
 # 💻 Tech Stack:
