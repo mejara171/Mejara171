@@ -2,7 +2,7 @@
 
 Game Developer
 
-Trying to learn everyday
+<i>Trying to learn everyday</i>
 
 
 # 💻 Tech Stack:
