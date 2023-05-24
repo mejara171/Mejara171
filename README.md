@@ -1,7 +1,6 @@
 # Me:
 
 
-Game Developer
 
 
 <i>Trying to learn everyday</i>
